@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LISTA EXCLUSIVA PARA INSCRITOS PROIBIDO A VENDA ME AVISEM ZAP 24999421597 SE INSCREVAM " tvg-logo="https://yt3.ggpht.com/XOP647Q0WN0JLpehD9CVDhIzhH1d9RnTblWmHn_sIH3gCv0R6hiWl1Cr6YyGlN_oAWqzNsBa=s600-c-k-c0x00ffffff-no-rj-rp-mo"group-title="TUTORIAISDOFABIO",LISTA GRATUITA PARA INSCRITOS DO CANAL 
+https://149vod-adaptive.akamaized.net/exp=1631334700~acl=%2Fc992f4fc-e69a-4e50-8065-543cd176d6f4%2F%2A~hmac=3b5928a4e1a89628cd2c7acff3e1aee6d3d715b8d253c73f490f123ddec45cdf/c992f4fc-e69a-4e50-8065-543cd176d6f4/sep/audio/04f0ea1c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/XOP647Q0WN0JLpehD9CVDhIzhH1d9RnTblWmHn_sIH3gCv0R6hiWl1Cr6YyGlN_oAWqzNsBa=s600-c-k-c0x00ffffff-no-rj-rp-mo" group-title="FILMES",TUTORIAIS DO FABIO
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILMES" tvg-logo="https://yt3.ggpht.com/XOP647Q0WN0JLpehD9CVDhIzhH1d9RnTblWmHn_sIH3gCv0R6hiWl1Cr6YyGlN_oAWqzNsBa=s600-c-k-c0x00ffffff-no-rj-rp-mo" group-title="VARIEDADES",TUTORIAIS DO FABIO
